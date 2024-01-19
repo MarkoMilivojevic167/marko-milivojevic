@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<item>
+			<title>Web dizajn</title>
+			<description>Izrada web sajtova.</description>
+			<link>http://bdizajn.byethost5.com/index.html</link>
+		</item>	
+		<item>
+			<title>O autoru</title>
+			<description>Možete pročitati stvari vezane za autora sajta</description>
+			<link>http://bdizajn.byethost5.com/autor.html</link>
+		</item>
+		<item>
+			<title>Galerija</title>
+			<description>U galeriji možete pogledati naše radove</description>
+			<link>http://galerija.html</link>
+		</item>
+	</channel>
+</rss>
